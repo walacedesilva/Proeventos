@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-dotnettools.csharp",
+        "formulahendry.dotnet",
+        "formulahendry.dotnet-test-explorer",
+        "k--kato.docomment"
+    ]
+}
